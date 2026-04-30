@@ -1,0 +1,23 @@
+# Build folders
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Local executable files
+Ex1
+Ex2
+hello
+random_matrix
+ex1_tests
+ex2_tests
+
+# VS Code local settings
+.vscode/
+
+# macOS files
+.DS_Store
